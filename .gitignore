@@ -1,0 +1,14 @@
+__pycache__/
+__pycache__
+.pytest_cache
+*.log
+
+# Environments
+.env
+.venv
+env/
+venv/
+
+#idea
+.idea
+.vscode
